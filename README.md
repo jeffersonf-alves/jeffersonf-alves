@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## Sobre
+Seja bem vindo ao meu perfil, meu nome é jefferson mas todo mundo me chama de Jeff, sou um cara extremamente apaixonado por tecnologia e estou constantemente
+aprendendo, estou focado no Javascript e todo o seu Ecossistema, No momento sou acadêmica em Análise e Desenvolvimento de Sistemas e fou formado em Técnico em informática P/ Internet pela a ETEC, espero ter você comigo aqui evoluíndo juntos! 🚀
