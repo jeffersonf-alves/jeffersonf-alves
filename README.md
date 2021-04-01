@@ -5,8 +5,10 @@ aprendendo, estou focado no Javascript e todo o seu Ecossistema, No momento sou 
 
 ## Conhecimentos
 
+<h1 align="start">
 <img src="img/html.jpg" width="45px" height="40px">
 <img src="img/css.png" width="40px" height="40px">
 <img src="img/js.png" width="40px" height="40px">
 <img src="img/node.png" width="40px" height="40px">
 <img src="img/react.png" width="40px" height="40px">
+</h1>
