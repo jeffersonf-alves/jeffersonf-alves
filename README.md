@@ -11,4 +11,5 @@ aprendendo, estou focado no Javascript e todo o seu Ecossistema, No momento sou 
 <img src="img/js.png" width="40px" height="40px">
 <img src="img/node.png" width="40px" height="40px">
 <img src="img/react.png" width="40px" height="40px">
+<img src="img/bootstrap.png" width="40px" height="40px">
 </h1>
