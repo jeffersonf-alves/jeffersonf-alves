@@ -1,15 +1,27 @@
-### Hi there 👋
+### Oii, Jefferson aqui! tudo bom?
 
-Seja bem vindo ao meu perfil, meu nome é Jefferson mas todo mundo me chama de Jeff, sou um cara extremamente apaixonado por tecnologia e estou constantemente
-aprendendo, estou focado no Javascript e todo o seu Ecossistema, No momento sou acadêmico em Análise e Desenvolvimento de Sistemas e sou formado em Técnico em informática P/ Internet pela a ETEC e espero ter você comigo aqui evoluíndo juntos! 🚀
+<div align="center">
+  <a href="https://github.com/jeffersonf-alves">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jeffersonf-alves&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeffersonf-alves&layout=compact&langs_count=7&theme=tokyonight"/>
+</div>
 
-## Conhecimentos
+<div style="display: inline_block"><br>
+  <img align="center" alt="Jeff-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Jeff-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="Jeff-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Jeff-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Jeff-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+ <img align="center" alt="Jeff-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+ <img align="center" alt="Jeff-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+<hr>
 
-<h1 align="start">
-<img src="img/html.jpg" width="45px" height="40px">
-<img src="img/css.png" width="40px" height="40px">
-<img src="img/js.png" width="40px" height="40px">
-<img src="img/node.png" width="40px" height="40px">
-<img src="img/react.png" width="40px" height="40px">
-<img src="img/bootstrap.png" width="40px" height="40px">
-</h1>
+</div>
+
+<div>
+
+  <a href="https://www.instagram.com/jeffersonf.alves/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+
+  <a href="https://www.linkedin.com/in/jefferson-francisco-alves-6bbb2016b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+</div>
+  
